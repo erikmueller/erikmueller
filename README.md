@@ -1,6 +1,6 @@
-![Erik's github stats](https://github-readme-stats.vercel.app/api?username=erikmueller&count_private=true&show_icons=true)
+![Erik's github stats](https://github-readme-stats.vercel.app/api?username=erikmueller&count_private=true&theme=graywhite)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikmueller&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikmueller&layout=compact&theme=graywhite)
 
 Thanks to [anuraghazra](https://github.com/anuraghazra/github-readme-stats) you can now have _dynamically generated GitHub stats on your readmes_ too!
 
